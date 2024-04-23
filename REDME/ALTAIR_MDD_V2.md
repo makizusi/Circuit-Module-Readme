@@ -1,5 +1,5 @@
 # ALTAIR_MDD_V2
-ALTAIR_MDD_V2
+[ALTAIR_MDD_V2](https://github.com/Altairu/ALTAIR_MDD_V2)
 
 > encoder
  * A0 A1
@@ -12,5 +12,10 @@ ALTAIR_MDD_V2
  * A8 A11
  * A6 A7
  * B8 B9
-   
-https://github.com/Altairu/ALTAIR_MDD_V2
+
+
+## 回路図
+![alt text](image/image.png)
+
+## PCB
+![alt text](image/image-1.png)
