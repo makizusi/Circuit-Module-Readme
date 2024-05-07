@@ -15,5 +15,9 @@
 
 ## 回路図
 ![alt text](image/image-3.png)
+
+### 注意
+フォトカプラはTLP152ではなくTLP2304を使うこと 
+
 ## PCB
 ![alt text](image/image-4.png)
