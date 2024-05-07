@@ -1,10 +1,11 @@
-# **AltairMD_V7**
+# [**AltairMD_V7**](https://github.com/Altairu/AltairMD_V7)
 ![](image/altair.png) 
 ### 5s 野口史遠
 ![](image/MD_kairozu_all.png)
 ![](image/MD_PCB_all.png)
 ![](image/MD.png)
 
+https://github.com/Altairu/AltairMD_V7
 ---
 ### **仕様**
 * 30V~10V(フォトカプラを変更すると10V以下も可)
@@ -91,8 +92,6 @@ Hが入力されるとハイサイド、Lが入力されるとローサイドが
 | H   | L   | L   | L   | H   | H   | H    | L    | 
 | H   | H   | H   | H   | H   | H   | L    | L    | 
 
-https://practicalelectronicsblog.com/hbridge/
-より
 # 正回転
 
 ![bg right:60% width:500px](image/1_files/4f8aed0cbb3d233e4912fb6e8aac236a.png)
@@ -108,3 +107,5 @@ https://practicalelectronicsblog.com/hbridge/
 ![bg right:60% width:500px](image/1_files/498ec3ddbcb9075836d5a820f88e3163.png)
 
 [Hatena Electronics](https://practicalelectronicsblog.com/hbridge/)
+
+https://practicalelectronicsblog.com/hbridge/  より
