@@ -1,6 +1,4 @@
 # [**AltairMD_V7**](https://github.com/Altairu/AltairMD_V7)
-![](image/altair.png) 
-### 5s 野口史遠
 ![](image/MD_kairozu_all.png)
 ![](image/MD_PCB_all.png)
 ![](image/MD.png)
