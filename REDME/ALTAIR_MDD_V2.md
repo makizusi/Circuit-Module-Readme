@@ -15,7 +15,7 @@
 
 
 ## 回路図
-![alt text](image/image.png)
+![alt text](image/MDD1.png)
 
 ## PCB
-![alt text](image/image-1.png)
+![alt text](image/MDD2.png)
